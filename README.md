@@ -25,3 +25,5 @@ SO THAT I can organize my thoughts and keep track of tasks I need to complete
 * THEN I am presented with empty fields to enter a new note title and the note’s text in the right-hand column
 
 # Screenshots
+ ![note](https://user-images.githubusercontent.com/96391351/175853899-33708a2b-4228-4d38-a2a5-683a15081ebe.png)
+ ![notetaker](https://user-images.githubusercontent.com/96391351/175853910-18bf17ff-01fc-4b62-b910-0fac7452f808.png)
